@@ -1,0 +1,14 @@
+{
+  "name": "cruzpineda031024",
+  "version": "1.0.0",
+  "description": "Melissa Cruz proyecto de backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melissa Yamileth Cruz Pineda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
