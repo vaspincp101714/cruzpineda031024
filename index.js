@@ -10,13 +10,13 @@ app.get("/usuario",function(req, res){
         segundonombre: "Yamileth",
         primerapellido: "Cruz",
         segundoapellido: "Pineda",
-        fechanacimiento: "08-04-1994",
+        fechanacimiento: "1994-04-08",
         estadofamiliar: "Soltera",
         residencia: "Santa Tecla",
         profesion: "Estudiante",
         estatura: 1.65,
         peso: 150,
-        colorpies: "trigueño",
+        colorpiel: "trigueño",
         colorojos: "cafe",
         colorcabello: "negro",
         ultimosempleos: [{
@@ -31,8 +31,8 @@ app.get("/usuario",function(req, res){
             dependencia: "secretaria privada",
             direccion: "Calle A, pasaje B, San Salvador",
             cargo: "Desarrollador de sistemas",
-            desde: "01-01-2017",
-            hasta: "31-12-2017"
+            desde: "2017-01-01",
+            hasta: "2017-01-01"
         }]
     });
 })
